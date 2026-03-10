@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I am a DevOps Engineer with 2 years of hands-on experience building, automating, and maintaining cloud infrastructure on AWS.
+I am a DevOps Engineer with hands-on experience building, automating, and maintaining cloud infrastructure on AWS.
 
 I specialize in designing scalable infrastructure, implementing CI/CD pipelines, containerizing applications using Docker, and ensuring high availability with proper monitoring and security practices.
 
