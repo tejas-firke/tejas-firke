@@ -127,7 +127,7 @@ open_to: DevOps & Cloud Engineer Roles | Freelance DevOps Projects
   </tr>
 </table>
 
-🔗 **[View All Projects →](https://github.com/tejas-firke/Portfolio-projects)**
+🔗 **[View All Projects →](https://github.com/tejas-firke?tab=repositories)**
 
 ---
 
